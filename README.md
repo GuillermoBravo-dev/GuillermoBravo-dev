@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [HandyX](https://github.com/HandyXProyect)
 
-- 🌱 I’m currently learning **everything about Frontend technologies and SCRUM Methodologies**
+- 🌱 I’m currently learning everything about **Frontend technologies** and **SCRUM Methodologies.**
 
 - 📫 Contact Me! **guillermoaldobravo@gmail.com**
 
-- 📄 Look my Portofolio :) [https://portfolio-pied-seven-96.vercel.app](https://portfolio-pied-seven-96.vercel.app)
+- 📁 My [Portofolio](https://portfolio-pied-seven-96.vercel.app)⭐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/guillermo-bravo-294499208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillermo-bravo-294499208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/guillermo-bravo-294499208/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="https://www.linkedin.com/in/guillermo-bravo-294499208/" height="30" width="40" /></a>Guillermo Bravo
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
