@@ -9,7 +9,7 @@
 
 - 📁 My [Portofolio](https://portfolio-pied-seven-96.vercel.app)⭐
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/guillermo-bravo-294499208/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="https://www.linkedin.com/in/guillermo-bravo-294499208/" height="30" width="40" /></a>Guillermo Bravo
 </p>
