@@ -3,7 +3,7 @@
 
 - 🔭 This was my last Project: [Henry Gadgets](https://henrygadgets.vercel.app)
 
-- 🌱 I’m currently learning everything about **Frontend technologies** and **SCRUM Methodologies.**
+- 🌱 I’m currently learning **MongoDB** and mastering **MERN** stack.
 
 - 📫 Contact Me! **guillermoaldobravo@gmail.com**
 
