@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guille!</h1>
 <h3 align="center">A dedicated Full Stack Developer from Argentina.</h3>
 
-- 🔭 This was my last Project: [Henry Gadgets](https://henrygadgets.vercel.app)
+- 🔭 This was my last Project: [Henry Gadgets](https://henrygadgets.vercel.app).
 
 - 🌱 I’m currently learning **MongoDB** and mastering **MERN** stack.
 
