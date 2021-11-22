@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guille!</h1>
-<h3 align="center">A dedicated Front-End Developer from Argentina.</h3>
+<h3 align="center">A dedicated Full Stack Web Developer from Argentina.</h3>
 
 - 📫 My Email: <a href="mailto:guillermoaldobravo@gmail.com">**guillermoaldobravo@gmail.com**</a>
 
