@@ -1,3 +1,4 @@
+<img align="center" src="https://i.imgur.com/DUHz9wN.png" alt="bg"/>
 <h2 align="center">Hello Everyone! 👋</h1>
 
 <h3 align="center">I'm Full Stack Web Developer from Argentina 🌌</h3>
@@ -6,6 +7,9 @@
 
 <p align="center">
 <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=hollowblind095&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hollowblind095&theme=midnight-purple&include_all_commits=true&show_icons=true" />
 </p>
 
 # Contact
@@ -42,3 +46,4 @@
 <p align="center">
   <img alt="gif" src="https://i.imgur.com/pkqEZMB.gif"/>
 </p>
+<img align="center" src="https://i.imgur.com/DUHz9wN.png" alt="bg"/>
