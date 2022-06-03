@@ -6,10 +6,10 @@
 <p align="center">My goal is improve every day ☄</p>
 
 <p align="center">
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=hollowblind095&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
+<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=GuillermoBravo-dev&count_private=true&show_icons=true&theme=midnight-purple&include_all_commits=true" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hollowblind095&theme=midnight-purple&include_all_commits=true&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GuillermoBravo-dev&theme=midnight-purple&include_all_commits=true&show_icons=true" />
 </p>
 
 # Contact
