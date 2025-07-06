@@ -49,23 +49,76 @@ Feel free to explore my work and reach out for collaboration opportunities!
 ## 🛠️ Technologies
 
 ### Frontend
-| **HTML5** | **CSS3** | **JavaScript** | **TypeScript** |
-|:----------:|:----------:|:----------:|:----------:|
-| **React** | **Next.js** | **Redux** | **Material UI** |
-| **Tailwind CSS** | **NextUI** | **GraphQL** | **Apollo Client** |
-| **Framer Motion** | **Leaflet** | **AWS Amplify** | **Styled Components** |
+<table>
+  <tr>
+    <td align="center"><strong>HTML5</strong></td>
+    <td align="center"><strong>CSS3</strong></td>
+    <td align="center"><strong>JavaScript</strong></td>
+    <td align="center"><strong>TypeScript</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>React</strong></td>
+    <td align="center"><strong>Next.js</strong></td>
+    <td align="center"><strong>Redux</strong></td>
+    <td align="center"><strong>Material UI</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tailwind CSS</strong></td>
+    <td align="center"><strong>NextUI</strong></td>
+    <td align="center"><strong>GraphQL</strong></td>
+    <td align="center"><strong>Apollo Client</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Framer Motion</strong></td>
+    <td align="center"><strong>Leaflet</strong></td>
+    <td align="center"><strong>AWS Amplify</strong></td>
+    <td align="center"><strong>Styled Components</strong></td>
+  </tr>
+</table>
 
 ### Backend
-| **Node.js** | **Express** | **MongoDB** | **PostgreSQL** |
-|:----------:|:----------:|:----------:|:----------:|
-| **Sequelize** | **Firebase** | **Supabase** | **AWS Cognito** |
-| **AWS Lambda** | **AWS S3** | **Postman** | **Strapi** |
+<table>
+  <tr>
+    <td align="center"><strong>Node.js</strong></td>
+    <td align="center"><strong>Express</strong></td>
+    <td align="center"><strong>MongoDB</strong></td>
+    <td align="center"><strong>PostgreSQL</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Sequelize</strong></td>
+    <td align="center"><strong>Firebase</strong></td>
+    <td align="center"><strong>Supabase</strong></td>
+    <td align="center"><strong>AWS Cognito</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AWS Lambda</strong></td>
+    <td align="center"><strong>AWS S3</strong></td>
+    <td align="center"><strong>Postman</strong></td>
+    <td align="center"><strong>Strapi</strong></td>
+  </tr>
+</table>
 
 ### Additional Tools
-| **Git** | **GitHub** | **BitBucket** | **ClickUp** |
-|:----------:|:----------:|:----------:|:----------:|
-| **Jira** | **Photoshop** | **Google Places API** | **Google Analytics** |
-| **Google ADS** | **Google Tag Manager** | **Cursor** | **AI Tools** |
+<table>
+  <tr>
+    <td align="center"><strong>Git</strong></td>
+    <td align="center"><strong>GitHub</strong></td>
+    <td align="center"><strong>BitBucket</strong></td>
+    <td align="center"><strong>ClickUp</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Jira</strong></td>
+    <td align="center"><strong>Photoshop</strong></td>
+    <td align="center"><strong>Google Places API</strong></td>
+    <td align="center"><strong>Google Analytics</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Google ADS</strong></td>
+    <td align="center"><strong>Google Tag Manager</strong></td>
+    <td align="center"><strong>Cursor</strong></td>
+    <td align="center"><strong>AI Tools</strong></td>
+  </tr>
+</table>
 
 ## 🎯 Key Skills
 
